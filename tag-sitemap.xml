@@ -3,28 +3,875 @@
 
 
     <url>
-        <loc>https://gaoming2020.github.io/tags/hollywood/</loc>
-        <lastmod>2024-12-18T20:10:12.656Z</lastmod>
+        <loc>https://gaoming2020.github.io/tags/local-exploration/</loc>
+        <lastmod>2024-12-18T20:19:24.805Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://gaoming2020.github.io/tags/film-production/</loc>
-        <lastmod>2024-12-18T20:10:12.656Z</lastmod>
+        <loc>https://gaoming2020.github.io/tags/unique-travel/</loc>
+        <lastmod>2024-12-18T20:19:24.805Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://gaoming2020.github.io/tags/behind-the-scenes/</loc>
-        <lastmod>2024-12-18T20:10:12.656Z</lastmod>
+        <loc>https://gaoming2020.github.io/tags/Europe/</loc>
+        <lastmod>2024-12-18T20:19:24.805Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://gaoming2020.github.io/tags/railway/</loc>
+        <lastmod>2024-12-18T20:19:24.805Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://gaoming2020.github.io/tags/adventure/</loc>
+        <lastmod>2024-12-18T20:19:24.805Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://gaoming2020.github.io/tags/travel/</loc>
+        <lastmod>2024-12-18T20:19:24.805Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://gaoming2020.github.io/tags/train-travel/</loc>
+        <lastmod>2024-12-18T20:19:24.805Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://gaoming2020.github.io/tags/Liechtenstein/</loc>
+        <lastmod>2024-12-18T20:19:24.805Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://gaoming2020.github.io/tags/sanctuary-cities/</loc>
+        <lastmod>2024-12-18T20:19:02.750Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://gaoming2020.github.io/tags/Trump-administration/</loc>
+        <lastmod>2024-12-18T20:19:02.750Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://gaoming2020.github.io/tags/GPS-monitoring/</loc>
+        <lastmod>2024-12-18T20:19:02.750Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://gaoming2020.github.io/tags/undocumented-migrants/</loc>
+        <lastmod>2024-12-18T20:19:02.750Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://gaoming2020.github.io/tags/border-security/</loc>
+        <lastmod>2024-12-18T20:19:02.750Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://gaoming2020.github.io/tags/immigration/</loc>
+        <lastmod>2024-12-18T20:19:02.750Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://gaoming2020.github.io/tags/Surveillance/</loc>
+        <lastmod>2024-12-18T20:18:39.404Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://gaoming2020.github.io/tags/Local-Politics/</loc>
+        <lastmod>2024-12-18T20:18:39.404Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://gaoming2020.github.io/tags/Conspiracy-Theories/</loc>
+        <lastmod>2024-12-18T20:18:39.404Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://gaoming2020.github.io/tags/Government-Transparency/</loc>
+        <lastmod>2024-12-18T20:18:39.404Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://gaoming2020.github.io/tags/NJ-Drones/</loc>
+        <lastmod>2024-12-18T20:18:39.404Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://gaoming2020.github.io/tags/Secret-Character/</loc>
+        <lastmod>2024-12-18T20:18:19.695Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://gaoming2020.github.io/tags/Toying-with-Terror/</loc>
+        <lastmod>2024-12-18T20:18:19.695Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://gaoming2020.github.io/tags/Mob-Entertainment/</loc>
+        <lastmod>2024-12-18T20:18:19.695Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://gaoming2020.github.io/tags/Horror-Games/</loc>
+        <lastmod>2024-12-18T20:18:19.695Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://gaoming2020.github.io/tags/Harley-Sawyer/</loc>
+        <lastmod>2024-12-18T20:18:19.695Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://gaoming2020.github.io/tags/Chapter-4/</loc>
+        <lastmod>2024-12-18T20:18:19.695Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://gaoming2020.github.io/tags/Poppy-Playtime/</loc>
+        <lastmod>2024-12-18T20:18:19.695Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://gaoming2020.github.io/tags/Gaming-News/</loc>
+        <lastmod>2024-12-18T20:18:19.695Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://gaoming2020.github.io/tags/Camera-Movements/</loc>
+        <lastmod>2024-12-18T20:17:57.271Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://gaoming2020.github.io/tags/Video-Transitions/</loc>
+        <lastmod>2024-12-18T20:17:57.271Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://gaoming2020.github.io/tags/Video-Effects/</loc>
+        <lastmod>2024-12-18T20:17:57.271Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://gaoming2020.github.io/tags/Motion-Graphics/</loc>
+        <lastmod>2024-12-18T20:17:57.271Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://gaoming2020.github.io/tags/Plugins/</loc>
+        <lastmod>2024-12-18T20:17:57.271Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://gaoming2020.github.io/tags/Video-Editing/</loc>
+        <lastmod>2024-12-18T20:17:57.271Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://gaoming2020.github.io/tags/Final-Cut-Pro/</loc>
+        <lastmod>2024-12-18T20:17:57.271Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://gaoming2020.github.io/tags/DaVinci-Resolve/</loc>
+        <lastmod>2024-12-18T20:17:57.271Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://gaoming2020.github.io/tags/rate-cut/</loc>
+        <lastmod>2024-12-18T20:17:35.220Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://gaoming2020.github.io/tags/market-analysis/</loc>
+        <lastmod>2024-12-18T20:17:35.220Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://gaoming2020.github.io/tags/Jerome-Powell/</loc>
+        <lastmod>2024-12-18T20:17:35.220Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://gaoming2020.github.io/tags/economic-policy/</loc>
+        <lastmod>2024-12-18T20:17:35.220Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://gaoming2020.github.io/tags/interest-rates/</loc>
+        <lastmod>2024-12-18T20:17:35.220Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://gaoming2020.github.io/tags/Federal-Reserve/</loc>
+        <lastmod>2024-12-18T20:17:35.220Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://gaoming2020.github.io/tags/Political-Mandate/</loc>
+        <lastmod>2024-12-18T20:17:14.304Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://gaoming2020.github.io/tags/Tax-Rates/</loc>
+        <lastmod>2024-12-18T20:17:14.304Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://gaoming2020.github.io/tags/Economic-Policy/</loc>
+        <lastmod>2024-12-18T20:17:14.304Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://gaoming2020.github.io/tags/Deregulation/</loc>
+        <lastmod>2024-12-18T20:17:14.304Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://gaoming2020.github.io/tags/Business/</loc>
+        <lastmod>2024-12-18T20:17:14.304Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://gaoming2020.github.io/tags/Kevin-O-Leary/</loc>
+        <lastmod>2024-12-18T20:17:14.304Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://gaoming2020.github.io/tags/Tech-CEOs/</loc>
+        <lastmod>2024-12-18T20:17:14.304Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://gaoming2020.github.io/tags/Mar-a-Lago/</loc>
+        <lastmod>2024-12-18T20:17:14.304Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://gaoming2020.github.io/tags/Donald-Trump/</loc>
+        <lastmod>2024-12-18T20:17:14.304Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://gaoming2020.github.io/tags/Geopolitics/</loc>
+        <lastmod>2024-12-18T20:16:53.776Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://gaoming2020.github.io/tags/Regulation/</loc>
+        <lastmod>2024-12-18T20:16:53.776Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://gaoming2020.github.io/tags/Trump/</loc>
+        <lastmod>2024-12-18T20:16:53.776Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://gaoming2020.github.io/tags/Technology/</loc>
+        <lastmod>2024-12-18T20:16:53.776Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://gaoming2020.github.io/tags/TikTok/</loc>
+        <lastmod>2024-12-18T20:16:53.776Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://gaoming2020.github.io/tags/AI/</loc>
+        <lastmod>2024-12-18T20:16:53.776Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://gaoming2020.github.io/tags/Nvidia/</loc>
+        <lastmod>2024-12-18T20:16:53.776Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://gaoming2020.github.io/tags/market-trends/</loc>
+        <lastmod>2024-12-18T20:16:31.503Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://gaoming2020.github.io/tags/inventory/</loc>
+        <lastmod>2024-12-18T20:16:31.503Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://gaoming2020.github.io/tags/home-selling/</loc>
+        <lastmod>2024-12-18T20:16:31.503Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://gaoming2020.github.io/tags/home-buying/</loc>
+        <lastmod>2024-12-18T20:16:31.503Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://gaoming2020.github.io/tags/real-estate/</loc>
+        <lastmod>2024-12-18T20:16:31.503Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://gaoming2020.github.io/tags/housing-market/</loc>
+        <lastmod>2024-12-18T20:16:31.503Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://gaoming2020.github.io/tags/mortgage-rates/</loc>
+        <lastmod>2024-12-18T20:16:31.503Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://gaoming2020.github.io/tags/raspberry-recipe/</loc>
+        <lastmod>2024-12-18T20:16:07.202Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://gaoming2020.github.io/tags/mascarpone/</loc>
+        <lastmod>2024-12-18T20:16:07.202Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://gaoming2020.github.io/tags/easy-dessert/</loc>
+        <lastmod>2024-12-18T20:16:07.202Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://gaoming2020.github.io/tags/italian-dessert/</loc>
+        <lastmod>2024-12-18T20:16:07.202Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://gaoming2020.github.io/tags/christmas-dessert/</loc>
+        <lastmod>2024-12-18T20:16:07.202Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://gaoming2020.github.io/tags/christmas-log/</loc>
+        <lastmod>2024-12-18T20:16:07.202Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://gaoming2020.github.io/tags/no-bake-dessert/</loc>
+        <lastmod>2024-12-18T20:16:07.202Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://gaoming2020.github.io/tags/postbiotics/</loc>
+        <lastmod>2024-12-18T20:15:40.360Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://gaoming2020.github.io/tags/brain-health/</loc>
+        <lastmod>2024-12-18T20:15:40.360Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://gaoming2020.github.io/tags/decision-making/</loc>
+        <lastmod>2024-12-18T20:15:40.360Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://gaoming2020.github.io/tags/microbiome/</loc>
+        <lastmod>2024-12-18T20:15:40.360Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://gaoming2020.github.io/tags/gut-health/</loc>
+        <lastmod>2024-12-18T20:15:40.360Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://gaoming2020.github.io/tags/Rate-Cut/</loc>
+        <lastmod>2024-12-18T20:15:17.752Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://gaoming2020.github.io/tags/Credit-Card-Debt/</loc>
+        <lastmod>2024-12-18T20:15:17.752Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://gaoming2020.github.io/tags/Economy/</loc>
+        <lastmod>2024-12-18T20:15:17.752Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://gaoming2020.github.io/tags/Interest-Rates/</loc>
+        <lastmod>2024-12-18T20:15:17.752Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://gaoming2020.github.io/tags/Inflation/</loc>
+        <lastmod>2024-12-18T20:15:17.752Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://gaoming2020.github.io/tags/gun-enthusiasts/</loc>
+        <lastmod>2024-12-18T20:14:55.746Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://gaoming2020.github.io/tags/military-weapons/</loc>
+        <lastmod>2024-12-18T20:14:55.746Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://gaoming2020.github.io/tags/firearms-history/</loc>
+        <lastmod>2024-12-18T20:14:55.746Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://gaoming2020.github.io/tags/classic-handguns/</loc>
+        <lastmod>2024-12-18T20:14:55.746Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://gaoming2020.github.io/tags/oldest-pistols/</loc>
+        <lastmod>2024-12-18T20:14:55.746Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://gaoming2020.github.io/tags/political-news/</loc>
+        <lastmod>2024-12-18T20:14:34.256Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://gaoming2020.github.io/tags/politics/</loc>
+        <lastmod>2024-12-18T20:14:34.256Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://gaoming2020.github.io/tags/mike-johnson/</loc>
+        <lastmod>2024-12-18T20:14:34.256Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://gaoming2020.github.io/tags/trump-cabinet/</loc>
+        <lastmod>2024-12-18T20:14:34.256Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://gaoming2020.github.io/tags/ethics-report/</loc>
+        <lastmod>2024-12-18T20:14:34.256Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://gaoming2020.github.io/tags/congress/</loc>
+        <lastmod>2024-12-18T20:14:34.256Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://gaoming2020.github.io/tags/matt-gaetz/</loc>
+        <lastmod>2024-12-18T20:14:34.256Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://gaoming2020.github.io/tags/government-shutdown/</loc>
+        <lastmod>2024-12-18T20:14:34.256Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://gaoming2020.github.io/tags/Political-Influence/</loc>
+        <lastmod>2024-12-18T20:14:11.623Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://gaoming2020.github.io/tags/Business-Strategy/</loc>
+        <lastmod>2024-12-18T20:14:11.623Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://gaoming2020.github.io/tags/Federal-Deregulation/</loc>
+        <lastmod>2024-12-18T20:14:11.623Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://gaoming2020.github.io/tags/Corporate-Tax/</loc>
+        <lastmod>2024-12-18T20:14:11.623Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://gaoming2020.github.io/tags/community-healing/</loc>
+        <lastmod>2024-12-18T20:13:50.916Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://gaoming2020.github.io/tags/school-safety/</loc>
+        <lastmod>2024-12-18T20:13:50.916Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://gaoming2020.github.io/tags/Madison-school-shooting/</loc>
+        <lastmod>2024-12-18T20:13:50.916Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://gaoming2020.github.io/tags/gun-violence/</loc>
+        <lastmod>2024-12-18T20:13:50.916Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://gaoming2020.github.io/tags/mental-health/</loc>
+        <lastmod>2024-12-18T20:13:50.916Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://gaoming2020.github.io/tags/Utah-news/</loc>
+        <lastmod>2024-12-18T20:13:26.246Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://gaoming2020.github.io/tags/family-tragedy/</loc>
+        <lastmod>2024-12-18T20:13:26.246Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://gaoming2020.github.io/tags/homicide/</loc>
+        <lastmod>2024-12-18T20:13:26.246Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://gaoming2020.github.io/tags/West-Valley-City/</loc>
+        <lastmod>2024-12-18T20:13:26.246Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://gaoming2020.github.io/tags/community-support/</loc>
+        <lastmod>2024-12-18T20:13:26.246Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://gaoming2020.github.io/tags/Carbone-Sauce/</loc>
+        <lastmod>2024-12-18T20:13:05.651Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://gaoming2020.github.io/tags/Comfort-Food/</loc>
+        <lastmod>2024-12-18T20:13:05.651Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://gaoming2020.github.io/tags/Italian-Cooking/</loc>
+        <lastmod>2024-12-18T20:13:05.651Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://gaoming2020.github.io/tags/Braised-Meat/</loc>
+        <lastmod>2024-12-18T20:13:05.651Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://gaoming2020.github.io/tags/Pasta-Recipe/</loc>
+        <lastmod>2024-12-18T20:13:05.651Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://gaoming2020.github.io/tags/Mario-Carbone/</loc>
+        <lastmod>2024-12-18T20:13:05.651Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://gaoming2020.github.io/tags/Sunday-Sauce/</loc>
+        <lastmod>2024-12-18T20:13:05.651Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://gaoming2020.github.io/tags/holiday-movies/</loc>
+        <lastmod>2024-12-18T20:12:41.304Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://gaoming2020.github.io/tags/tax-incentives/</loc>
+        <lastmod>2024-12-18T20:12:41.304Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://gaoming2020.github.io/tags/film-production/</loc>
+        <lastmod>2024-12-18T20:12:41.304Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://gaoming2020.github.io/tags/behind-the-scenes/</loc>
+        <lastmod>2024-12-18T20:12:41.304Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://gaoming2020.github.io/tags/movie-magic/</loc>
+        <lastmod>2024-12-18T20:12:41.304Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://gaoming2020.github.io/tags/Vancouver-film-industry/</loc>
+        <lastmod>2024-12-18T20:12:41.304Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://gaoming2020.github.io/tags/filming-locations/</loc>
+        <lastmod>2024-12-18T20:12:41.304Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://gaoming2020.github.io/tags/movie-locations/</loc>
+        <lastmod>2024-12-18T20:12:41.304Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://gaoming2020.github.io/tags/Red-Wine-Sauce/</loc>
+        <lastmod>2024-12-18T20:11:51.768Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://gaoming2020.github.io/tags/hollywood/</loc>
         <lastmod>2024-12-18T20:10:12.656Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -45,13 +892,6 @@
     </url>
 
     <url>
-        <loc>https://gaoming2020.github.io/tags/movie-locations/</loc>
-        <lastmod>2024-12-18T20:10:12.656Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://gaoming2020.github.io/tags/common-sense/</loc>
         <lastmod>2024-12-18T20:01:15.503Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -60,13 +900,6 @@
 
     <url>
         <loc>https://gaoming2020.github.io/tags/gun-safety/</loc>
-        <lastmod>2024-12-18T20:01:15.503Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://gaoming2020.github.io/tags/mental-health/</loc>
         <lastmod>2024-12-18T20:01:15.503Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -150,6 +983,13 @@
     </url>
 
     <url>
+        <loc>https://gaoming2020.github.io/tags/winter-weather/</loc>
+        <lastmod>2024-12-18T20:00:31.191Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://gaoming2020.github.io/tags/rain-forecast/</loc>
         <lastmod>2024-12-18T20:00:31.191Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -158,13 +998,6 @@
 
     <url>
         <loc>https://gaoming2020.github.io/tags/Cincinnati-weather/</loc>
-        <lastmod>2024-12-18T20:00:31.191Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://gaoming2020.github.io/tags/winter-weather/</loc>
         <lastmod>2024-12-18T20:00:31.191Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -186,27 +1019,6 @@
 
     <url>
         <loc>https://gaoming2020.github.io/tags/Investment-Strategy/</loc>
-        <lastmod>2024-12-18T20:00:08.576Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://gaoming2020.github.io/tags/Interest-Rates/</loc>
-        <lastmod>2024-12-18T20:00:08.576Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://gaoming2020.github.io/tags/Federal-Reserve/</loc>
-        <lastmod>2024-12-18T20:00:08.576Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://gaoming2020.github.io/tags/Inflation/</loc>
         <lastmod>2024-12-18T20:00:08.576Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -444,13 +1256,6 @@
     </url>
 
     <url>
-        <loc>https://gaoming2020.github.io/tags/border-security/</loc>
-        <lastmod>2024-12-18T19:57:26.268Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://gaoming2020.github.io/tags/law-enforcement/</loc>
         <lastmod>2024-12-18T19:57:26.268Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -466,13 +1271,6 @@
 
     <url>
         <loc>https://gaoming2020.github.io/tags/criminal-deportation/</loc>
-        <lastmod>2024-12-18T19:57:26.268Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://gaoming2020.github.io/tags/immigration/</loc>
         <lastmod>2024-12-18T19:57:26.268Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -598,13 +1396,6 @@
     </url>
 
     <url>
-        <loc>https://gaoming2020.github.io/tags/Donald-Trump/</loc>
-        <lastmod>2024-12-18T19:56:42.624Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://gaoming2020.github.io/tags/DNF-Universe/</loc>
         <lastmod>2024-12-18T19:56:20.184Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -634,13 +1425,6 @@
 
     <url>
         <loc>https://gaoming2020.github.io/tags/The-First-Berserker-Khazan/</loc>
-        <lastmod>2024-12-18T19:56:20.184Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://gaoming2020.github.io/tags/Gaming-News/</loc>
         <lastmod>2024-12-18T19:56:20.184Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -879,20 +1663,6 @@
 
     <url>
         <loc>https://gaoming2020.github.io/tags/inflation/</loc>
-        <lastmod>2024-12-18T19:53:48.386Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://gaoming2020.github.io/tags/market-analysis/</loc>
-        <lastmod>2024-12-18T19:53:48.386Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://gaoming2020.github.io/tags/interest-rates/</loc>
         <lastmod>2024-12-18T19:53:48.386Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -1298,27 +2068,6 @@
     </url>
 
     <url>
-        <loc>https://gaoming2020.github.io/tags/railway/</loc>
-        <lastmod>2024-12-18T19:50:38.090Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://gaoming2020.github.io/tags/train-travel/</loc>
-        <lastmod>2024-12-18T19:50:38.090Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://gaoming2020.github.io/tags/Liechtenstein/</loc>
-        <lastmod>2024-12-18T19:50:38.090Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://gaoming2020.github.io/tags/conspiracy-theories/</loc>
         <lastmod>2024-12-18T19:50:12.866Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -1445,20 +2194,6 @@
     </url>
 
     <url>
-        <loc>https://gaoming2020.github.io/tags/Video-Transitions/</loc>
-        <lastmod>2024-12-18T19:49:21.721Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://gaoming2020.github.io/tags/Video-Effects/</loc>
-        <lastmod>2024-12-18T19:49:21.721Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://gaoming2020.github.io/tags/MotionVFX/</loc>
         <lastmod>2024-12-18T19:49:21.721Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -1466,70 +2201,7 @@
     </url>
 
     <url>
-        <loc>https://gaoming2020.github.io/tags/Video-Editing/</loc>
-        <lastmod>2024-12-18T19:49:21.721Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://gaoming2020.github.io/tags/Final-Cut-Pro/</loc>
-        <lastmod>2024-12-18T19:49:21.721Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://gaoming2020.github.io/tags/DaVinci-Resolve/</loc>
-        <lastmod>2024-12-18T19:49:21.721Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://gaoming2020.github.io/tags/Economic-Policy/</loc>
-        <lastmod>2024-12-18T19:48:59.607Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://gaoming2020.github.io/tags/Deregulation/</loc>
-        <lastmod>2024-12-18T19:48:59.607Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://gaoming2020.github.io/tags/Tax-Cuts/</loc>
-        <lastmod>2024-12-18T19:48:59.607Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://gaoming2020.github.io/tags/Business/</loc>
-        <lastmod>2024-12-18T19:48:59.607Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://gaoming2020.github.io/tags/Kevin-O-Leary/</loc>
-        <lastmod>2024-12-18T19:48:59.607Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://gaoming2020.github.io/tags/Mar-a-Lago/</loc>
-        <lastmod>2024-12-18T19:48:59.607Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://gaoming2020.github.io/tags/Tech-CEOs/</loc>
         <lastmod>2024-12-18T19:48:59.607Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -1557,41 +2229,6 @@
     </url>
 
     <url>
-        <loc>https://gaoming2020.github.io/tags/TikTok/</loc>
-        <lastmod>2024-12-18T19:48:37.692Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://gaoming2020.github.io/tags/AI/</loc>
-        <lastmod>2024-12-18T19:48:37.692Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://gaoming2020.github.io/tags/Nvidia/</loc>
-        <lastmod>2024-12-18T19:48:37.692Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://gaoming2020.github.io/tags/Jerome-Powell/</loc>
-        <lastmod>2024-12-18T19:48:14.216Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://gaoming2020.github.io/tags/economic-policy/</loc>
-        <lastmod>2024-12-18T19:48:14.216Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://gaoming2020.github.io/tags/economic-forecast/</loc>
         <lastmod>2024-12-18T19:47:52.346Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -1613,34 +2250,6 @@
     </url>
 
     <url>
-        <loc>https://gaoming2020.github.io/tags/home-buying/</loc>
-        <lastmod>2024-12-18T19:47:52.346Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://gaoming2020.github.io/tags/real-estate/</loc>
-        <lastmod>2024-12-18T19:47:52.346Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://gaoming2020.github.io/tags/housing-market/</loc>
-        <lastmod>2024-12-18T19:47:52.346Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://gaoming2020.github.io/tags/mortgage-rates/</loc>
-        <lastmod>2024-12-18T19:47:52.346Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://gaoming2020.github.io/tags/quick-recipes/</loc>
         <lastmod>2024-12-18T19:47:24.497Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -1656,20 +2265,6 @@
 
     <url>
         <loc>https://gaoming2020.github.io/tags/easy-dessert-recipe/</loc>
-        <lastmod>2024-12-18T19:47:24.497Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://gaoming2020.github.io/tags/christmas-log/</loc>
-        <lastmod>2024-12-18T19:47:24.497Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://gaoming2020.github.io/tags/no-bake-dessert/</loc>
         <lastmod>2024-12-18T19:47:24.497Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -1711,34 +2306,6 @@
     </url>
 
     <url>
-        <loc>https://gaoming2020.github.io/tags/postbiotics/</loc>
-        <lastmod>2024-12-18T19:46:30.093Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://gaoming2020.github.io/tags/brain-health/</loc>
-        <lastmod>2024-12-18T19:46:30.093Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://gaoming2020.github.io/tags/decision-making/</loc>
-        <lastmod>2024-12-18T19:46:30.093Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://gaoming2020.github.io/tags/microbiome/</loc>
-        <lastmod>2024-12-18T19:46:30.093Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://gaoming2020.github.io/tags/gut-bacteria/</loc>
         <lastmod>2024-12-18T19:46:30.093Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -1746,28 +2313,7 @@
     </url>
 
     <url>
-        <loc>https://gaoming2020.github.io/tags/gut-health/</loc>
-        <lastmod>2024-12-18T19:46:30.093Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://gaoming2020.github.io/tags/mike-johnson/</loc>
-        <lastmod>2024-12-18T19:46:04.214Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://gaoming2020.github.io/tags/capitol-hill/</loc>
-        <lastmod>2024-12-18T19:46:04.214Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://gaoming2020.github.io/tags/political-news/</loc>
         <lastmod>2024-12-18T19:46:04.214Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -1781,56 +2327,7 @@
     </url>
 
     <url>
-        <loc>https://gaoming2020.github.io/tags/ethics-report/</loc>
-        <lastmod>2024-12-18T19:46:04.214Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://gaoming2020.github.io/tags/matt-gaetz/</loc>
-        <lastmod>2024-12-18T19:46:04.214Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://gaoming2020.github.io/tags/congress/</loc>
-        <lastmod>2024-12-18T19:46:04.214Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://gaoming2020.github.io/tags/government-shutdown/</loc>
-        <lastmod>2024-12-18T19:46:04.214Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://gaoming2020.github.io/tags/community-healing/</loc>
-        <lastmod>2024-12-18T19:45:41.252Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://gaoming2020.github.io/tags/gun-violence/</loc>
-        <lastmod>2024-12-18T19:45:41.252Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://gaoming2020.github.io/tags/school-violence/</loc>
-        <lastmod>2024-12-18T19:45:41.252Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://gaoming2020.github.io/tags/Madison-school-shooting/</loc>
         <lastmod>2024-12-18T19:45:41.252Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -1866,13 +2363,6 @@
 
     <url>
         <loc>https://gaoming2020.github.io/tags/Homicide/</loc>
-        <lastmod>2024-12-18T19:45:14.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://gaoming2020.github.io/tags/West-Valley-City/</loc>
         <lastmod>2024-12-18T19:45:14.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -2418,14 +2908,14 @@
     </url>
 
     <url>
-        <loc>https://gaoming2020.github.io/tags/home-invasion/</loc>
+        <loc>https://gaoming2020.github.io/tags/crime/</loc>
         <lastmod>2024-12-18T19:16:51.352Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://gaoming2020.github.io/tags/crime/</loc>
+        <loc>https://gaoming2020.github.io/tags/home-invasion/</loc>
         <lastmod>2024-12-18T19:16:51.352Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -2733,13 +3223,6 @@
     </url>
 
     <url>
-        <loc>https://gaoming2020.github.io/tags/house-intelligence-committee/</loc>
-        <lastmod>2024-12-18T19:11:58.995Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://gaoming2020.github.io/tags/unidentified-aerial-phenomena/</loc>
         <lastmod>2024-12-18T19:11:58.995Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -2754,15 +3237,15 @@
     </url>
 
     <url>
-        <loc>https://gaoming2020.github.io/tags/drone-sightings/</loc>
+        <loc>https://gaoming2020.github.io/tags/house-intelligence-committee/</loc>
         <lastmod>2024-12-18T19:11:58.995Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://gaoming2020.github.io/tags/school-safety/</loc>
-        <lastmod>2024-12-18T19:11:37.568Z</lastmod>
+        <loc>https://gaoming2020.github.io/tags/drone-sightings/</loc>
+        <lastmod>2024-12-18T19:11:58.995Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -3475,13 +3958,6 @@
     </url>
 
     <url>
-        <loc>https://gaoming2020.github.io/tags/travel/</loc>
-        <lastmod>2024-12-18T19:04:50.020Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://gaoming2020.github.io/tags/Van-Cu/</loc>
         <lastmod>2024-12-18T19:04:50.020Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -3575,13 +4051,6 @@
     <url>
         <loc>https://gaoming2020.github.io/tags/cat-behavior/</loc>
         <lastmod>2024-12-18T19:04:05.781Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://gaoming2020.github.io/tags/politics/</loc>
-        <lastmod>2024-12-18T19:03:48.440Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -3937,13 +4406,6 @@
     </url>
 
     <url>
-        <loc>https://gaoming2020.github.io/tags/Geopolitics/</loc>
-        <lastmod>2024-12-18T18:56:46.669Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://gaoming2020.github.io/tags/culinary-origins/</loc>
         <lastmod>2024-12-18T18:56:23.061Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -3967,13 +4429,6 @@
     <url>
         <loc>https://gaoming2020.github.io/tags/pho/</loc>
         <lastmod>2024-12-18T18:56:23.061Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://gaoming2020.github.io/tags/community-support/</loc>
-        <lastmod>2024-12-18T18:47:50.502Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -4043,20 +4498,6 @@
 
     <url>
         <loc>https://gaoming2020.github.io/tags/mental-health-support/</loc>
-        <lastmod>2024-12-18T18:47:06.184Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://gaoming2020.github.io/tags/family-tragedy/</loc>
-        <lastmod>2024-12-18T18:47:06.184Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://gaoming2020.github.io/tags/homicide/</loc>
         <lastmod>2024-12-18T18:47:06.184Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
